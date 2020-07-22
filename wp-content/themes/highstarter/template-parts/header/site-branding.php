@@ -30,7 +30,6 @@
             <?php endif;
         endif; ?>
         <!--Call to action-->
-        <?php highstarter_call_to_action() ?>
         </div>
     </div>
     <?php else:
